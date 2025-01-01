@@ -40,7 +40,7 @@ group :jekyll_plugins do
     gem "jekyll-twitter-plugin", "~> 2.1.0"
     gem "jekyll-sass-converter", "~> 3.0.0"
     gem "classifier-reborn", "~> 2.3.0"
-    gem "sass-embedded", "~> 1.83.0"
+    #gem "sass-embedded", "~> 1.83.0"
 end
 group :other_plugins do
     #gem 'css_parser'
