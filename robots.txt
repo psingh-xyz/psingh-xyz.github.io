@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://psingh-xyz.github.io/psingh-xyz.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://psingh-xyz.github.io/psingh-xyz.github.io/sitemap.xml
